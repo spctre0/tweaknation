@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+	padding: unset;
+	margin: unset;
+}
+
+html {
+	height: 100vh;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: black;
+	color: white;
+}
+
+h1 {
+	padding: 2em 0;
+}
+
+div {
+	display: flex;
+	flex-direction: column;
+	gap: 1em;
+}
+
+img {
+
+}
+
+footer {
+	margin: 2em 0;
+	text-align: center;
+}
+
+a {
+	font-size: 3em;
+}
